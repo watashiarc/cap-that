@@ -1,0 +1,7 @@
+{
+  "name": "CapThat",
+  "description": "A minimalist, focused screen recording tool.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
