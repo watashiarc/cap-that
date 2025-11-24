@@ -1,6 +1,6 @@
 # CapThat
 
-<img width="1387" height="833" alt="cap-that-screenshot" src="https://github.com/user-attachments/assets/d9f98a26-19ce-49fc-9b71-4601f6e8ac17" />
+<img width="1387" height="833" alt="cap-that-screenshot" src="https://github.com/user-attachments/assets/f6dda130-3356-492a-a706-2ea20238ffdd" />
 
 **CapThat** is a lightweight, no-nonsense screen recorder that runs entirely in your browser. Capture your screen, microphone, and system audio—no installs, no setup.
 
