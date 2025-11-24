@@ -12,6 +12,12 @@
 - Session Gallery: Review and manage your recordings instantly.
 - Audio Options: Choose whether to record microphone and/or system audio.
 
+## TODO 
+- [ ] Add unit tests
+- [ ] - [ ] Improve MP4 conversion performance and reliability
+- [ ] - [ ] Create a Chrome-extension-friendly build (packaged for use in extensions)
+- [ ] - [ ] Create an Electron app version (desktop build)
+
 ## Getting Started
 
 This is a web-based application built with React and Vite.
